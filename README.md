@@ -12,7 +12,7 @@
 
 <div align="center">
   <h2>📸 Captura de Pantalla</h2>
-  <img src="https://i.servimg.com/u/f34/20/32/08/60/ksafe10.png" alt="KeySafe Pro Interface" width="500">
+  <img src="https://i.servimg.com/u/f34/20/32/08/60/ksafe10.png" alt="KeySafe Pro Interface" width="550">
 </div>
 
 ---
