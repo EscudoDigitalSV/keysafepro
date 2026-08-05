@@ -1,4 +1,4 @@
-# <img src="https://i.servimg.com/u/f34/20/32/08/60/ks11.png" width="32" height="32"> KeySafe Pro 1.0.0
+# <img src="https://i.servimg.com/u/f34/20/32/08/60/ks10.png" width="32" height="32"> KeySafe Pro 1.0.0
 
 > ## 🔒 Protección, Cifrado Avanzado y Bóveda Local de Contraseñas para Windows 10 & 11
 >
