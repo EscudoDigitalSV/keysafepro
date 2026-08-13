@@ -282,6 +282,20 @@ Incluye una herramienta de auditoría integrada que analiza tus entradas para id
 
 ---
 
+# 🐛 Reportar un Problema
+
+Si encuentras un error o comportamiento inesperado, puedes enviarnos un correo a **soporte@escudodigitalsv.com** indicando:
+* Versión de EasyFolderLock Pro
+* Versión de Windows
+* Pasos para reproducir el problema
+* Mensaje de error
+* Captura de pantalla, si es necesario
+
+> [!IMPORTANT]
+> Nunca publiques contraseñas ni archivos que contengan información personal.
+
+---
+
 <div align="center">
 
 ## ❤️ KeySafe Pro v1.0.0 © 2026
