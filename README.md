@@ -285,7 +285,7 @@ Incluye una herramienta de auditoría integrada que analiza tus entradas para id
 # 🐛 Reportar un Problema
 
 Si encuentras un error o comportamiento inesperado, puedes enviarnos un correo a **soporte@escudodigitalsv.com** indicando:
-* Versión de EasyFolderLock Pro
+* Versión de KeySafe Pro
 * Versión de Windows
 * Pasos para reproducir el problema
 * Mensaje de error
